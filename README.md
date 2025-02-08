@@ -14,5 +14,5 @@ Based on `trackWindow.py` by Keturn
 https://gist.github.com/keturn/6695625
 
 Libraries:
-`pip install pyautogui`
+`pip install pyautogui` 
 `pip install pywin32`
