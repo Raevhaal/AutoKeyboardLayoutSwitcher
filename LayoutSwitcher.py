@@ -1,7 +1,3 @@
-"""
-Copy pasted from https://gist.github.com/keturn/6695625
-"""
-
 # using pywin32 for constants and ctypes for everything else seems a little
 # indecisive, but whatevs.
 import pyautogui
