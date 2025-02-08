@@ -13,6 +13,6 @@ Inside `LayoutSwitcher.py` you can configure more applications using the variabl
 Based on `trackWindow.py` by Keturn
 https://gist.github.com/keturn/6695625
 
-Libraries:
+###### Libraries:
 `pip install pyautogui` 
 `pip install pywin32`
