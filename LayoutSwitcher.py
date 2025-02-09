@@ -155,7 +155,7 @@ def callback(hWinEventHook, event, hwnd, idObject, idChild, dwEventThread, dwmsE
                     newLayout = value
 
     if(newLayout != currentLayout):
-        # print(f"Switching to {newLayout} for {shortName}")
+        print(f"Switching to {newLayout} for {shortName}")
         currentLayout = newLayout
         swapLayout(newLayout)
 
