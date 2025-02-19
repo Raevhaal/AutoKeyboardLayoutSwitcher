@@ -48,7 +48,8 @@ layouts = {
 processLayout = {
     "ms-teams.exe": "NO",
     "explorer.exe": None,
-    "msedgewebview2.exe": None
+    "msedgewebview2.exe": None,
+    "ApplicationFrameHost.exe": None
 }
 defaultLayouts = "EN"
 swapLayout(defaultLayouts)
